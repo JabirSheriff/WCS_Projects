@@ -1,0 +1,839 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\controllers\\authenticatepatientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\controllers\\authenticatepatientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\misc\\customstatusvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\misc\\customstatusvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\models\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\models\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\misc\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\misc\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\interfaces\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\interfaces\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\models\\dtos\\patientupdateresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\models\\dtos\\patientupdateresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32AE56B-B12F-474E-AFCA-78B74E9CFE4B}|ClinicTest\\ClinicTest.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinictest\\patientservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32AE56B-B12F-474E-AFCA-78B74E9CFE4B}|ClinicTest\\ClinicTest.csproj|solutionrelative:clinictest\\patientservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\contexts\\cliniccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\contexts\\cliniccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\models\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\models\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\models\\dtos\\doctorregisterresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\models\\dtos\\doctorregisterresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\exceptions\\invaliduserexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\exceptions\\invaliduserexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\exceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\exceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\interfaces\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\interfaces\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\interfaces\\iauthorize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\interfaces\\iauthorize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\models\\dtos\\appointmentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\models\\dtos\\appointmentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\models\\dtos\\appointmentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\models\\dtos\\appointmentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\models\\dtos\\doctorregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\models\\dtos\\doctorregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\models\\dtos\\errorobjectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\models\\dtos\\errorobjectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\models\\dtos\\patientregisterresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\models\\dtos\\patientregisterresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\models\\dtos\\patientregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\models\\dtos\\patientregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\models\\doctorspeciality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\models\\doctorspeciality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\models\\speciality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\models\\speciality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\clinicapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\clinicapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\migrations\\cliniccontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\migrations\\cliniccontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\migrations\\20250129071718_hashkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\migrations\\20250129071718_hashkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\migrations\\20250129045758_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\migrations\\20250129045758_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32AE56B-B12F-474E-AFCA-78B74E9CFE4B}|ClinicTest\\ClinicTest.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinictest\\patientrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32AE56B-B12F-474E-AFCA-78B74E9CFE4B}|ClinicTest\\ClinicTest.csproj|solutionrelative:clinictest\\patientrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinicapi\\clinicapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7EA3A156-B31B-46F5-B988-0CAFCEE28C87}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\clinicapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32AE56B-B12F-474E-AFCA-78B74E9CFE4B}|ClinicTest\\ClinicTest.csproj|c:\\users\\jabir-1\\desktop\\wb training\\c# learning\\clinicsolution\\clinictest\\clinictest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C32AE56B-B12F-474E-AFCA-78B74E9CFE4B}|ClinicTest\\ClinicTest.csproj|solutionrelative:clinictest\\clinictest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "log4net.config",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\log4net.config",
+              "RelativeDocumentMoniker": "ClinicAPI\\log4net.config",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\log4net.config",
+              "RelativeToolTip": "ClinicAPI\\log4net.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-31T07:19:14.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomStatusValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Misc\\CustomStatusValidator.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Misc\\CustomStatusValidator.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Misc\\CustomStatusValidator.cs",
+              "RelativeToolTip": "ClinicAPI\\Misc\\CustomStatusValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T07:05:50.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Misc\\CustomExceptionFilter.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Misc\\CustomExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Misc\\CustomExceptionFilter.cs",
+              "RelativeToolTip": "ClinicAPI\\Misc\\CustomExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T07:04:29.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Program.cs",
+              "RelativeToolTip": "ClinicAPI\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T04:19:17.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Models\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Models\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Models\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "ClinicAPI\\Models\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:15:42.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthenticatePatientController.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Controllers\\AuthenticatePatientController.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Controllers\\AuthenticatePatientController.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Controllers\\AuthenticatePatientController.cs",
+              "RelativeToolTip": "ClinicAPI\\Controllers\\AuthenticatePatientController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAawEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:07:57.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "ClinicAPI\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T05:22:23.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PatientServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicTest\\PatientServiceTest.cs",
+              "RelativeDocumentMoniker": "ClinicTest\\PatientServiceTest.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicTest\\PatientServiceTest.cs",
+              "RelativeToolTip": "ClinicTest\\PatientServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T06:58:01.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PatientUpdateResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Models\\DTOs\\PatientUpdateResponseDto.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Models\\DTOs\\PatientUpdateResponseDto.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Models\\DTOs\\PatientUpdateResponseDto.cs",
+              "RelativeToolTip": "ClinicAPI\\Models\\DTOs\\PatientUpdateResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T05:20:36.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Services\\PatientService.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Services\\PatientService.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Services\\PatientService.cs",
+              "RelativeToolTip": "ClinicAPI\\Services\\PatientService.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAIYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:30:04.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Interfaces\\IPatientService.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Interfaces\\IPatientService.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Interfaces\\IPatientService.cs",
+              "RelativeToolTip": "ClinicAPI\\Interfaces\\IPatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:29:18.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClinicContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Contexts\\ClinicContext.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Contexts\\ClinicContext.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Contexts\\ClinicContext.cs",
+              "RelativeToolTip": "ClinicAPI\\Contexts\\ClinicContext.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvyEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T04:18:27.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Services\\DoctorService.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Services\\DoctorService.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Services\\DoctorService.cs",
+              "RelativeToolTip": "ClinicAPI\\Services\\DoctorService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:46:23.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DoctorRegisterResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Models\\DTOs\\DoctorRegisterResponseDto.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Models\\DTOs\\DoctorRegisterResponseDto.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Models\\DTOs\\DoctorRegisterResponseDto.cs",
+              "RelativeToolTip": "ClinicAPI\\Models\\DTOs\\DoctorRegisterResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:48:23.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Models\\DTOs\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Models\\DTOs\\LoginResponseDto.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Models\\DTOs\\LoginResponseDto.cs",
+              "RelativeToolTip": "ClinicAPI\\Models\\DTOs\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:17:09.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InvalidUserException.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Exceptions\\InvalidUserException.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Exceptions\\InvalidUserException.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Exceptions\\InvalidUserException.cs",
+              "RelativeToolTip": "ClinicAPI\\Exceptions\\InvalidUserException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:08:31.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EntityNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Exceptions\\EntityNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeToolTip": "ClinicAPI\\Exceptions\\EntityNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:22:37.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Interfaces\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Interfaces\\IAppointmentService.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Interfaces\\IAppointmentService.cs",
+              "RelativeToolTip": "ClinicAPI\\Interfaces\\IAppointmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:34:04.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IAuthorize.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Interfaces\\IAuthorize.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Interfaces\\IAuthorize.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Interfaces\\IAuthorize.cs",
+              "RelativeToolTip": "ClinicAPI\\Interfaces\\IAuthorize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:08:59.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Interfaces\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Interfaces\\IDoctorService.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Interfaces\\IDoctorService.cs",
+              "RelativeToolTip": "ClinicAPI\\Interfaces\\IDoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:57:02.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "ClinicAPI\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T05:00:32.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Services\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Services\\AppointmentService.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Services\\AppointmentService.cs",
+              "RelativeToolTip": "ClinicAPI\\Services\\AppointmentService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:32:27.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Repositories\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Repositories\\AppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Repositories\\AppointmentRepository.cs",
+              "RelativeToolTip": "ClinicAPI\\Repositories\\AppointmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:43:18.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DoctorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Repositories\\DoctorRepository.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Repositories\\DoctorRepository.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Repositories\\DoctorRepository.cs",
+              "RelativeToolTip": "ClinicAPI\\Repositories\\DoctorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:45:48.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Repositories\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Repositories\\PatientRepository.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Repositories\\PatientRepository.cs",
+              "RelativeToolTip": "ClinicAPI\\Repositories\\PatientRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:39:22.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Repositories\\Repository.cs",
+              "RelativeToolTip": "ClinicAPI\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA2wCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:39:31.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "ClinicAPI\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:39:43.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AppointmentResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Models\\DTOs\\AppointmentResponseDto.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Models\\DTOs\\AppointmentResponseDto.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Models\\DTOs\\AppointmentResponseDto.cs",
+              "RelativeToolTip": "ClinicAPI\\Models\\DTOs\\AppointmentResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:31:38.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AppointmentCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Models\\DTOs\\AppointmentCreateDto.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Models\\DTOs\\AppointmentCreateDto.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Models\\DTOs\\AppointmentCreateDto.cs",
+              "RelativeToolTip": "ClinicAPI\\Models\\DTOs\\AppointmentCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:31:08.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Models\\Doctor.cs",
+              "RelativeToolTip": "ClinicAPI\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:38:25.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DoctorRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Models\\DTOs\\DoctorRegisterDto.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Models\\DTOs\\DoctorRegisterDto.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Models\\DTOs\\DoctorRegisterDto.cs",
+              "RelativeToolTip": "ClinicAPI\\Models\\DTOs\\DoctorRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:47:50.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ErrorObjectDto.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Models\\DTOs\\ErrorObjectDto.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Models\\DTOs\\ErrorObjectDto.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Models\\DTOs\\ErrorObjectDto.cs",
+              "RelativeToolTip": "ClinicAPI\\Models\\DTOs\\ErrorObjectDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:17:27.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PatientRegisterResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Models\\DTOs\\PatientRegisterResponseDto.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Models\\DTOs\\PatientRegisterResponseDto.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Models\\DTOs\\PatientRegisterResponseDto.cs",
+              "RelativeToolTip": "ClinicAPI\\Models\\DTOs\\PatientRegisterResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:40:56.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PatientRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Models\\DTOs\\PatientRegisterDto.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Models\\DTOs\\PatientRegisterDto.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Models\\DTOs\\PatientRegisterDto.cs",
+              "RelativeToolTip": "ClinicAPI\\Models\\DTOs\\PatientRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:30:01.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ClinicAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\appsettings.json",
+              "RelativeToolTip": "ClinicAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-30T10:13:16.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Models\\Appointment.cs",
+              "RelativeToolTip": "ClinicAPI\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:38:12.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DoctorSpeciality.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Models\\DoctorSpeciality.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Models\\DoctorSpeciality.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Models\\DoctorSpeciality.cs",
+              "RelativeToolTip": "ClinicAPI\\Models\\DoctorSpeciality.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:38:35.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Models\\Patient.cs",
+              "RelativeToolTip": "ClinicAPI\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:38:46.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Speciality.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Models\\Speciality.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Models\\Speciality.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Models\\Speciality.cs",
+              "RelativeToolTip": "ClinicAPI\\Models\\Speciality.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T04:11:55.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Models\\User.cs",
+              "RelativeToolTip": "ClinicAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T04:15:05.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ClinicContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Migrations\\ClinicContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Migrations\\ClinicContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Migrations\\ClinicContextModelSnapshot.cs",
+              "RelativeToolTip": "ClinicAPI\\Migrations\\ClinicContextModelSnapshot.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:23:56.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ClinicAPI.http",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\ClinicAPI.http",
+              "RelativeDocumentMoniker": "ClinicAPI\\ClinicAPI.http",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\ClinicAPI.http",
+              "RelativeToolTip": "ClinicAPI\\ClinicAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-30T07:27:08.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20250129071718_HashKey.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Migrations\\20250129071718_HashKey.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Migrations\\20250129071718_HashKey.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Migrations\\20250129071718_HashKey.cs",
+              "RelativeToolTip": "ClinicAPI\\Migrations\\20250129071718_HashKey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:23:48.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20250129045758_init.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Migrations\\20250129045758_init.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Migrations\\20250129045758_init.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Migrations\\20250129045758_init.cs",
+              "RelativeToolTip": "ClinicAPI\\Migrations\\20250129045758_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:23:43.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "PatientRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicTest\\PatientRepositoryTest.cs",
+              "RelativeDocumentMoniker": "ClinicTest\\PatientRepositoryTest.cs",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicTest\\PatientRepositoryTest.cs",
+              "RelativeToolTip": "ClinicTest\\PatientRepositoryTest.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwBQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T06:57:54.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ClinicAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ClinicAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-30T07:06:35.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ClinicAPI",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\ClinicAPI.csproj",
+              "RelativeDocumentMoniker": "ClinicAPI\\ClinicAPI.csproj",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicAPI\\ClinicAPI.csproj",
+              "RelativeToolTip": "ClinicAPI\\ClinicAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-30T07:06:27.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ClinicTest.csproj",
+              "DocumentMoniker": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicTest\\ClinicTest.csproj",
+              "RelativeDocumentMoniker": "ClinicTest\\ClinicTest.csproj",
+              "ToolTip": "C:\\Users\\Jabir-1\\Desktop\\WB Training\\c# learning\\ClinicSolution\\ClinicTest\\ClinicTest.csproj",
+              "RelativeToolTip": "ClinicTest\\ClinicTest.csproj",
+              "ViewState": "AgIAAAIAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-30T05:42:12.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+2025-01-31 12:50:16,143 [1] INFO Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5015
+2025-01-31 12:50:16,239 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-01-31 12:50:16,242 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-01-31 12:50:16,244 [1] INFO Microsoft.Hosting.Lifetime - Content root path: C:\Users\Jabir-1\Desktop\WB Training\c# learning\ClinicSolution\ClinicAPI
+2025-01-31 12:50:41,541 [.NET TP Worker] WARN Microsoft.EntityFrameworkCore.Model.Validation - No store type was specified for the decimal property 'Phone' on entity type 'Doctor'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-01-31 12:50:41,547 [.NET TP Worker] WARN Microsoft.EntityFrameworkCore.Model.Validation - No store type was specified for the decimal property 'Phone' on entity type 'Patient'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-01-31 12:50:43,426 [.NET TP Worker] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (154ms) [Parameters=[@__key_0='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [u].[Email], [u].[HasKey], [u].[Password], [u].[Role]
+FROM [Users] AS [u]
+WHERE [u].[Email] = @__key_0
+2025-01-31 12:50:43,650 [.NET TP Worker] ERROR ClinicAPI.Controllers.AuthenticatePatientController - Invalid username or password

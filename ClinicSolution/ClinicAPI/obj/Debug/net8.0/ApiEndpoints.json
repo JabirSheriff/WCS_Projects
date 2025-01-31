@@ -1,0 +1,80 @@
+[
+  {
+    "ContainingType": "ClinicAPI.Controllers.AuthenticatePatientController",
+    "Method": "LoginPatient",
+    "RelativePath": "api/AuthenticatePatient/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "ClinicAPI.Models.DTOs.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ClinicAPI.Models.DTOs.LoginResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ClinicAPI.Controllers.AuthenticatePatientController",
+    "Method": "RegisterPatient",
+    "RelativePath": "api/AuthenticatePatient/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "patientRegisterDto",
+        "Type": "ClinicAPI.Models.DTOs.PatientRegisterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ClinicAPI.Models.DTOs.PatientRegisterResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ClinicAPI.Controllers.PatientController",
+    "Method": "UpdatePatientDetails",
+    "RelativePath": "api/Patient/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "patientUpdateRequestDto",
+        "Type": "ClinicAPI.Models.DTOs.PatientUpdateRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ClinicAPI.Models.Patient",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
